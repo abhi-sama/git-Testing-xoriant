@@ -1,1 +1,2 @@
 This is going to be added remotely on github.I have changed it on github second time.
+Now I am using Git Pull Command.
