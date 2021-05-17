@@ -2,3 +2,5 @@ This is my world.
 This is from movie Assassin Creed
 This is a bad movie.
 This will advance to master branch.
+This is the line from my feature branch.
+This is line after merging bug fix ,and now we are in feature branch.
