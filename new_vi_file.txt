@@ -7,3 +7,4 @@ This is line after merging bug fix ,and now we are in feature branch.
 
 New line added to new bug fix.
 This change is made on feature branch.
+-----------
